@@ -12,7 +12,7 @@
 
 #include <react/renderer/components/RNTestViewViewSpec/EventEmitters.h>
 #include <react/renderer/components/RNTestViewViewSpec/Props.h>
-#include "States.h"
+#include "TestViewViewState.h"
 #include <react/renderer/components/view/ConcreteViewShadowNode.h>
 #include <jsi/jsi.h>
 
